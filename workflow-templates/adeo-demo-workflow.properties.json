@@ -1,0 +1,9 @@
+{
+    "name": "Adeo Organization Workflow",
+    "description": "Adeo Organization CI workflow template example.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go",
+        "Python"
+    ]
+}
