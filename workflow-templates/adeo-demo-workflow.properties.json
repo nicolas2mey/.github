@@ -3,7 +3,6 @@
     "description": "Adeo Organization CI workflow template example.",
     "iconName": "adeo",
     "categories": [
-        "Go",
-        "Python"
+        "Go"
     ]
 }
